@@ -52,3 +52,25 @@ Watched this video https://youtu.be/1zkgdLZEdwM to get a better understanding ab
 **Today's Progress**:  Today, I completed the "Basic CSS" section from #freeCodeCamp and Tomorrow I am planning to start with "Applied Visual Design". 
 
 So far So good..!!
+
+### Day 6
+
+**Today's Progress**: Completed a few more items from "Applied Visual Design" and Leaned a lot of CSS properties today. Planning to finish this section by tomorrow.
+
+### Day 7
+
+**Today's Progress**: I didn't get much time to learn today because of busy office hours. 
+
+I don't want to break the flow. So completed a few chapters from "Applied Visual Design". 
+
+### Day 8
+
+**Today's Progress**: I have completed "Applied Visual Design" from #freeCodeCamp and the learning experience was good. 
+
+Gone through many different CSS attributes last week. So practicing it more will help to solve real-life problems. That's my next plan.
+
+#### Day 9
+
+**Today's Progress**: Taken almost three days to complete this "Contact Us" form.  Here is the final outcome.
+
+Link to work : https://codepen.io/jithinkmatthew/full/mdJzxep
