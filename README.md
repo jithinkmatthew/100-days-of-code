@@ -4,7 +4,6 @@ This is my log of #100DaysOfCodeChallenge
 
 
 
-----
 
 ## Content
 
